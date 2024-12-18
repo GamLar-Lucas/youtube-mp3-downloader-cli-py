@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
